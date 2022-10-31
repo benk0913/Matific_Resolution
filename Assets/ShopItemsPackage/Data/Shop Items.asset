@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8a7172deebf6b4fb60766fbf7160a8, type: 3}
+  m_Name: Shop Items
+  m_EditorClassIdentifier: 
+  Categories:
+  - CategoryName: Outfits
+    Items:
+    - {fileID: 11400000, guid: 85425942fbbb3624c9627072bc52c05b, type: 2}
+    - {fileID: 11400000, guid: c7ebe2a366243f64c95c65910734da57, type: 2}
+    - {fileID: 11400000, guid: c1ee8a900082ec646b490a3ac3f52e62, type: 2}
+    - {fileID: 11400000, guid: e1caeecf0494fb045af86ee7dd369a9e, type: 2}
+    - {fileID: 11400000, guid: e2453f1167274d542b1e672d01c903f1, type: 2}
+    - {fileID: 11400000, guid: dd284c9726589aa43957341b1814f8c9, type: 2}
+    - {fileID: 11400000, guid: 6b40ae459dbbc7346b9fa1e704004043, type: 2}
+    - {fileID: 11400000, guid: 6f03f05ebe5d4e542b7e6380d30243fa, type: 2}
+    - {fileID: 11400000, guid: 991531d1d89c8114e97ec10a0c808c27, type: 2}
+    - {fileID: 11400000, guid: 781b5f13c6348cb47ae045b34da87f8a, type: 2}
+  - CategoryName: Eyes
+    Items:
+    - {fileID: 11400000, guid: 7e27f9b0ca92b6048bafedf59d3fdd79, type: 2}
+    - {fileID: 11400000, guid: d9896b6ddfc177b43b7898fe129f2a99, type: 2}
+    - {fileID: 11400000, guid: 9b12b05096871eb4c94a9c7e03f29046, type: 2}
+    - {fileID: 11400000, guid: 0bf125cabebc92b4aad5a45e0178c4c6, type: 2}
+    - {fileID: 11400000, guid: 739100a9becd1a14a8e65a06564bfdc8, type: 2}
+    - {fileID: 11400000, guid: c0a83a1d0d5b5ec4c9c40ec18bd79989, type: 2}
+    - {fileID: 11400000, guid: 942deae9e52e50248b0a05f0281c6d94, type: 2}
+    - {fileID: 11400000, guid: 59509c25f922fbf44aec42d3194ea7c3, type: 2}
+    - {fileID: 11400000, guid: 8919068bf1b281a47ba18da2a18e0d4a, type: 2}
+    - {fileID: 11400000, guid: aabb1fc98ad01144781c7735e20e6298, type: 2}
+  - CategoryName: Mouths
+    Items:
+    - {fileID: 11400000, guid: 27c64a3cb256c3b4f8371fd479554740, type: 2}
+    - {fileID: 11400000, guid: 4a741e28e807f424081ccc02c3f35d72, type: 2}
+    - {fileID: 11400000, guid: e7e93ed57a0a9514a9da46fce7d28d40, type: 2}
+    - {fileID: 11400000, guid: a95bcc837420b9b47bd5f3261d48146b, type: 2}
+    - {fileID: 11400000, guid: d4d61ad67c983d149a316eee50e3f725, type: 2}
+    - {fileID: 11400000, guid: 5acf0fc2ee8004f4ea449bec42f9e232, type: 2}
+    - {fileID: 11400000, guid: 4c513dc2c974a7246bec8c1b01e57d80, type: 2}
+    - {fileID: 11400000, guid: 3914730d546465c42ac452d95a13b2e6, type: 2}
+    - {fileID: 11400000, guid: feeba5b56dec43245910ddcc9a5d6158, type: 2}
+    - {fileID: 11400000, guid: 3793c21eb4378504bae93fb5e292bc7c, type: 2}
+    - {fileID: 11400000, guid: 375224a9bb52e224ca9f19489b2b96a5, type: 2}
